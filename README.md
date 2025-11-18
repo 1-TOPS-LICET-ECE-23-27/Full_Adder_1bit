@@ -58,7 +58,7 @@ Verilog project implementing a 1-bit full adder using Quartus Prime and ModelSim
 
 ---
 
-##  **(Optional) FPGA Pin Assignment**
+##  ** FPGA Pin Assignment**
 Only required if the design is to be implemented on hardware.
 
 - Go to **Assignments → Pin Planner**
